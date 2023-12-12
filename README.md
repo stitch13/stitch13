@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
-    href="https://github.com/juliorenanp"
+    href="https://github.com/stitch13"
     alt="GitHub"
     target="blank"
   >
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/-Facebook-007ACC?style=flat&logo=Facebook&logoColor=white" />
   </a>
   <a
-    href="https://www.instagram.com/juliorenanp" 
+    href="https://www.instagram.com/stitch13" 
     alt="Instagram"
     target="blank"
   >
@@ -76,7 +76,7 @@ Here some techologies that I work or study about:
 ## Github Status ⚡😎
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliorenanp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorenanp&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stitch13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stitch13&layout=compact&langs_count=16&theme=dracula"/>
 </p>
 
